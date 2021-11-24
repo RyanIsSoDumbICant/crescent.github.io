@@ -1,0 +1,21 @@
+{
+  "name": "crescent",
+  "version": "1.0.0",
+  "description": "music generation using artificial intelligence",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "Ryan Gupta <ryan_gupta@oakridge.in>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
